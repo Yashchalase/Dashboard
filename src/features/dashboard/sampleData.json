@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "id": "cat-1",
+      "name": "CSPM Executive dashboard",
+      "widgets": [
+        {
+          "id": "w-1",
+          "name": "Summary",
+          "text": "Random summary text"
+        },
+        {
+          "id": "w-2",
+          "name": "Top Risks",
+          "text": "Random top risks text"
+        }
+      ]
+    },
+    {
+      "id": "cat-2",
+      "name": "Operational Metrics",
+      "widgets": [
+        {
+          "id": "w-3",
+          "name": "Throughput",
+          "text": "Random throughput text"
+        }
+      ]
+    },
+    {
+      "id": "cat-3",
+      "name": "Compliance",
+      "widgets": []
+    }
+  ]
+}
